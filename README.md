@@ -5,4 +5,4 @@ this repo contain:
 
 1.personal buisness card web page.
 
-2. Hometown Homepage.
+2.Hometown Homepage.
