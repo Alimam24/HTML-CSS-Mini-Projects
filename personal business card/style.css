@@ -1,0 +1,51 @@
+.card{
+    width:400px;
+    display:block;
+    margin:40px auto;
+    border-bottom: 4px solid #8bb8e8;
+    border-left: 4px solid #8bb8e8;
+    border-radius: 10px;
+    padding:7px;
+    text-align: center;
+    color:#daebfe;
+    background:#003b5c;
+}
+.avatar{
+    margin:10px 0 0 0;
+    border:7px solid #8bb8e8;
+    border-radius: 100%;
+}
+.bold{
+    font-weight: bold;
+    font-size:x-large;
+}
+
+.info{
+    margin:20px 65px 0 20px;
+    font-weight: bold;
+    text-align: left;
+    display:flex;
+    justify-content: space-between;
+
+
+
+}
+.info li{
+    font-weight: normal;
+}
+
+.contactme-btn{
+    font-size: 26px;
+    font-weight: bold;
+    margin:25px 0;
+    border:4px solid #8bb8e8;
+    border-radius: 20px;
+    padding: 4px 10px;
+    color:#003b5c;
+
+    background: #daebfe;
+
+
+
+
+}
