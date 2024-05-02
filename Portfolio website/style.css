@@ -16,7 +16,7 @@ header{
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding:5px 150px;
+    padding:0.3em 11em;
 }
 
 #logo{
@@ -29,7 +29,7 @@ header{
 #navigation a{
     color:#3a6cf4;
     text-decoration: none;
-    margin-left: 20px;
+    margin-left: 1.1em;
     font-size: 1.2em;
     font-weight: 500;
 }
@@ -37,3 +37,59 @@ header{
 #navigation a:hover{
     color:blueviolet;
 }
+
+#main{
+    padding:10em 14em;
+    background-image:url(imeges/mohammad-rahmani-_Fx34KeqIEw-unsplash\ \(1\).jpg);
+    background-size:cover;
+    background-attachment: fixed;
+}
+#main h2{
+    color:aliceblue;
+    font-weight: 450;
+    font-size: 1.6em;
+}
+#main h2 span{
+    display:inline-block;
+    color:#3a6cf4;
+    font-size: 2em;
+    font-weight:700 ;
+    margin-top:0.5em;
+}
+#main h3{
+    color:aliceblue;
+    font-size:1.7em;
+    font-weight: 600;
+    margin-top:1.08em;
+}
+#projects-btn{
+    display:inline-block;
+    color:aliceblue;
+    text-decoration: none;
+    font-size: 1,3em;
+    font-weight: 600;
+    margin:1.9em 0 2.5em 0;
+    padding: 1em 3em;
+    border-radius: 0.5em;
+    background-color: #3a6cf4;
+    transition: 0.7S ease;
+}
+
+#projects-btn:hover{
+    background-color: #1045d7;
+    scale: 1.1;
+}
+#icons a{
+    margin-right:1em;
+    color:aliceblue;
+    font-size: 1.7em;
+    border-radius: 3px;
+    padding:0 5px;
+    transition: 0.7S ease;
+}
+
+#icons a:hover{
+    background-color: rgba(191, 196, 201, 0.323);
+    font-size: 2em;
+}
+
